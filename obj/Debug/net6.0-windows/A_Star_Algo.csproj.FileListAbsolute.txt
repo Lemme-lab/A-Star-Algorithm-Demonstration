@@ -1,0 +1,17 @@
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\bin\Debug\net6.0-windows\A_Star_Algo.exe
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\bin\Debug\net6.0-windows\A_Star_Algo.deps.json
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\bin\Debug\net6.0-windows\A_Star_Algo.runtimeconfig.json
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\bin\Debug\net6.0-windows\A_Star_Algo.dll
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\bin\Debug\net6.0-windows\A_Star_Algo.pdb
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.csproj.AssemblyReference.cache
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.Form1.resources
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.csproj.GenerateResource.cache
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.AssemblyInfoInputs.cache
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.AssemblyInfo.cs
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.csproj.CoreCompileInputs.cache
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.dll
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\refint\A_Star_Algo.dll
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.pdb
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\A_Star_Algo.genruntimeconfig.cache
+C:\Hardware\Project-Telic\Code\A_Star_Algo\A_Star_Algo\obj\Debug\net6.0-windows\ref\A_Star_Algo.dll
